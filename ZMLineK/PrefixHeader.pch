@@ -1,0 +1,19 @@
+//
+//  PrefixHeader.pch
+//  ZMLineK
+//
+//  Created by Zhimi on 2019/3/19.
+//  Copyright © 2019 hexuren. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <AVFoundation/AVFoundation.h>
+#import "Config.h"
+#import "PlateConfig.h"
+#import "Masonry.h"
+#import "CommonMethod.h"
+#import "ECMacroHelper.h"
+
+#endif /* PrefixHeader_pch */
